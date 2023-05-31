@@ -35,4 +35,7 @@ Execute o comando para iniciar o servidor
 php artisan serve
 ```
 
+Acesse o endereço
+```
 127.0.0.1
+```
